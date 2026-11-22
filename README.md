@@ -9,6 +9,7 @@ Week 1 notes: https://github.com/bdzanoir-art/week1
 | Day | Topic | Notes |
 |---|---|---|
 | 8 | DNS records and resolution | [day08-dns.md](day08-dns.md) |
+| 9 | DNS lab: dig and nslookup | [day-09-dig-nslookup.md](day-09-dig-nslookup.md) |
 
 ## Format of each note
 
@@ -19,9 +20,3 @@ Week 1 notes: https://github.com/bdzanoir-art/week1
 
 Bouzidi Anoir, Computer Science student at ESI-SBA
 GitHub: [bdzanoir-art](https://github.com/bdzanoir-art)
-
-## Day 9 - DNS lab: dig and nslookup
-- Used `dig` and `nslookup` for A, AAAA, MX, NS and TXT records
-- Followed a full lookup with `dig +trace github.com` (root -> .com -> github.com name servers -> A record)
-- Learned about TTL, non-authoritative answers and typosquatting
-- Notes and output: [day-09/](day-09/)
