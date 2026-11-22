@@ -1,0 +1,66 @@
+
+; <<>> DiG 9.20.30 <<>> +trace github.com
+;; global options: +cmd
+.			494049	IN	NS	e.root-servers.net.
+.			494049	IN	NS	c.root-servers.net.
+.			494049	IN	NS	f.root-servers.net.
+.			494049	IN	NS	j.root-servers.net.
+.			494049	IN	NS	m.root-servers.net.
+.			494049	IN	NS	a.root-servers.net.
+.			494049	IN	NS	l.root-servers.net.
+.			494049	IN	NS	b.root-servers.net.
+.			494049	IN	NS	d.root-servers.net.
+.			494049	IN	NS	k.root-servers.net.
+.			494049	IN	NS	g.root-servers.net.
+.			494049	IN	NS	h.root-servers.net.
+.			494049	IN	NS	i.root-servers.net.
+;; Received 239 bytes from 10.65.205.118#53(10.65.205.118) in 40 ms
+
+com.			172800	IN	NS	b.gtld-servers.net.
+com.			172800	IN	NS	c.gtld-servers.net.
+com.			172800	IN	NS	a.gtld-servers.net.
+com.			172800	IN	NS	i.gtld-servers.net.
+com.			172800	IN	NS	f.gtld-servers.net.
+com.			172800	IN	NS	g.gtld-servers.net.
+com.			172800	IN	NS	e.gtld-servers.net.
+com.			172800	IN	NS	d.gtld-servers.net.
+com.			172800	IN	NS	h.gtld-servers.net.
+com.			172800	IN	NS	k.gtld-servers.net.
+com.			172800	IN	NS	l.gtld-servers.net.
+com.			172800	IN	NS	m.gtld-servers.net.
+com.			172800	IN	NS	j.gtld-servers.net.
+com.			86400	IN	DS	19718 13 2 8ACBB0CD28F41250A80A491389424D341522D946B0DA0C0291F2D3D7 71D7805A
+com.			86400	IN	RRSIG	DS 8 1 86400 20261205170000 20261122160000 8763 . g7J09somZ6iJ0xcG7a58QBvnRpopZG0z/G3GkPqQ8hbW5J9lrg7Ufyx2 gH1vZ18T4f/5VSiOPH/gBTMSe1K3jpcGfYA0yqY8a45pYGpPBfHiIMjX O5PZ2/2lYz9XKnRzvL8zEZbqwu/rEXcJARzx1KVgC/umbsKsxOjfHVVL pCx/sJNO6N1lDrNBRTWWJz8x1qAqhtXq70dcJ/e59vYRqUXIZGE0SDiA 4AudKLpDn66/yLDKc2SiwvoSjIVuVA42B0Xu6EQqhnNVeLkhuTJP7c71 4nhn2/jMJ7b6lD6ZI1C3FcSyEIllQEcPjWZeQbXIZdXceiDzQMufZifI 7sscrQ==
+;; Received 1198 bytes from 192.112.36.4#53(g.root-servers.net) in 278 ms
+
+;; UDP setup with 2001:500:d937::30#53(2001:500:d937::30) for github.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 2001:500:d937::30#53(2001:500:d937::30) for github.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 2001:500:d937::30#53(2001:500:d937::30) for github.com failed: network unreachable.
+github.com.		172800	IN	NS	ns-520.awsdns-01.net.
+github.com.		172800	IN	NS	ns-421.awsdns-52.com.
+github.com.		172800	IN	NS	ns-1707.awsdns-21.co.uk.
+github.com.		172800	IN	NS	ns-1283.awsdns-32.org.
+github.com.		172800	IN	NS	dns1.p08.nsone.net.
+github.com.		172800	IN	NS	dns2.p08.nsone.net.
+github.com.		172800	IN	NS	dns3.p08.nsone.net.
+github.com.		172800	IN	NS	dns4.p08.nsone.net.
+CK0POJMG874LJREF7EFN8430QVIT8BSM.com. 900 IN NSEC3 1 1 0 - CK0Q35HRS4H76G6CHNB9414CJN6S5UPL NS SOA RRSIG DNSKEY NSEC3PARAM
+CK0POJMG874LJREF7EFN8430QVIT8BSM.com. 900 IN RRSIG NSEC3 13 2 900 20261126002640 20261118231640 65344 com. B7Yrt+EyOBChfhURhB3ti52cnZS4118tPepxRpCHqD5KvY3rmtKp83Dg zuHkkOJO8wgvKlla0/TjE3Vo4W89gg==
+4KB4DFS71LEP8G8P8VT4CCUSQNL4CNCS.com. 900 IN NSEC3 1 1 0 - 4KB4V9IAMJL29MC1VBJ8NDO7E6SI2B8O NS DS RRSIG
+4KB4DFS71LEP8G8P8VT4CCUSQNL4CNCS.com. 900 IN RRSIG NSEC3 13 2 900 20261127023853 20261120012853 65344 com. iSrV+VjcYFkecis8mmtdMTpWOivBYfBs2AtWe0eOdpM1QPMu1aFrP1MN mg/dd73EKApZLBXo0gNU0PkHrHRD6w==
+;; Received 663 bytes from 192.54.112.30#53(h.gtld-servers.net) in 212 ms
+
+;; UDP setup with 2600:9000:5305:300::1#53(2600:9000:5305:300::1) for github.com failed: network unreachable.
+github.com.		60	IN	A	140.82.121.3
+github.com.		900	IN	NS	dns1.p08.nsone.net.
+github.com.		900	IN	NS	dns2.p08.nsone.net.
+github.com.		900	IN	NS	dns3.p08.nsone.net.
+github.com.		900	IN	NS	dns4.p08.nsone.net.
+github.com.		900	IN	NS	ns-1283.awsdns-32.org.
+github.com.		900	IN	NS	ns-1707.awsdns-21.co.uk.
+github.com.		900	IN	NS	ns-421.awsdns-52.com.
+github.com.		900	IN	NS	ns-520.awsdns-01.net.
+;; Received 278 bytes from 205.251.193.165#53(ns-421.awsdns-52.com) in 65 ms
+
