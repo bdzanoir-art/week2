@@ -12,6 +12,7 @@ Week 1 notes: https://github.com/bdzanoir-art/week1
 | 9 | DNS lab: dig and nslookup | [day-09-dig-nslookup.md](day-09-dig-nslookup.md) |
 | 10 | HTTP methods, status codes, headers, cookies | [day-10-http-basics.md](day-10-http-basics.md) |
 | 11 | curl -v against my Django API | [day-11-curl-django-api.md](day-11-curl-django-api.md) |
+| 12 | HTTPS and TLS certificates | [day12-tls.md](day12-tls.md) |
 
 ## Format of each note
 
